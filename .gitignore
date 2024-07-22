@@ -1,0 +1,9 @@
+.venv
+.venv/*
+sorular.toml
+main.spec
+dist/
+build/
+__pycache__
+*.l
+*.m4a

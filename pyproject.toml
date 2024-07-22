@@ -1,0 +1,26 @@
+[project]
+name = "bilgi-yarismasi"
+version = "0.1.0"
+description = "Trivia Knowledge Competition"
+authors = [
+    { name = "mal1kc", email = "59576495+mal1kc@users.noreply.github.com" }
+]
+dependencies = [
+    "pytomlpp>=1.0.13",
+]
+readme = "README.md"
+requires-python = ">= 3.11"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/bilgi_yarismasi"]

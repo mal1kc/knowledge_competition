@@ -1,0 +1,21 @@
+[soru1]
+dogrucevap = 'correct answ'
+icerik = '''Yahudilik'te kendisine İsrail denilen,tanrı ile güreşip onu yendiğine inanılan ve soyundan gelenlere İsrailoğulları denilen peygamber aşağıdakilerden hangisidir?
+'''
+konu = 'YAHUDİLİK'
+sorulma = 0
+yanlis1 = 'Hz.Musa'
+yanlis2 = 'Hz.Yusuf'
+yanlis3 = 'Hz.İbrahim'
+zorluk = 1
+
+[soru2]
+dogrucevap = "Kral Davut'un Mührü ve Yedi Kollu Şamdan"
+icerik = 'Aşağıdaki seçeneklerden hangisinde Yahudiliğin en önemli sembolleri verilmiştir?'
+konu = 'YAHUDİLİK'
+sorulma = 0
+yanlis1 = 'Ağlama Duvarı ve Yedi kollu şamdan'
+yanlis2 = "Ağlama Duvarı ve Kral Davut'un Mührü"
+yanlis3 = "Süleyman Mabedi ve Kral Davut'un Mührü"
+zorluk = 0
+

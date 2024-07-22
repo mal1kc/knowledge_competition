@@ -1,0 +1,9 @@
+[as]
+correct = 4
+player = 'as'
+point = 8
+
+[asd]
+correct = 3
+player = 'asd'
+point = 7
